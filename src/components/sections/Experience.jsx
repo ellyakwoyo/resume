@@ -47,26 +47,32 @@ function Experience() {
           <ul>
             <li>
               <Typography variant="body2" fullWidth>
+                Implimented AISearch on eBoardadmin which enhances documment
+                search and generate response based on seach request.
+              </Typography>
+            </li>
+            <li>
+              <Typography variant="body2" fullWidth>
                 Reduced bugs reported by over 30% using Test Driven Development.
               </Typography>
             </li>
             <li>
               <Typography variant="body2" fullWidth>
-                Behavior Driven Development approaches in writing, developing,
-                testing and debugging codes.
+                Implimented agile methodology(Scrum) using Zoho which increased
+                team productivity by a remarkable 60%
               </Typography>
             </li>
             <li>
               <Typography variant="body2" fullWidth>
-                Integrated different external services and requirements to meet
-                the specific user needs.
+                Refactored the entire for eboardadmin codebase with the assit of
+                PHPunit which later improved codebase adaptability bugs
+                detection.
               </Typography>
             </li>
             <li>
               <Typography variant="body2" fullWidth>
-                Increased rate for generating reports efficiently after
-                redesigning and refactoring monolith application to generate
-                reports using the latest services.
+                Implimented the CI/CD pipeline for eParliament which reduced
+                direct server interaction by 90%.
               </Typography>
             </li>
             <li>
@@ -116,25 +122,25 @@ function Experience() {
           <ul>
             <li>
               <Typography variant="body2" fullWidth>
-                I ensured that the company network was secure by quarantining
-                the suspicious emails.
+                Assisted students in understanding agile methodology which
+                earned me a helpful rate of 90%
               </Typography>
             </li>
             <li>
               <Typography variant="body2" fullWidth>
-                Ensured that printers and other electronics like CCTV cameras
-                were up and working with time maintenance.
+                Developed and delivered assigned projects on time.
               </Typography>
             </li>
             <li>
               <Typography variant="body2" fullWidth>
-                Responded to staff request when needed.
+                Collaborated well with students by allowing them access code
+                snippets they needed through github while working on object
+                oriented programming.
               </Typography>
             </li>
             <li>
               <Typography variant="body2" fullWidth>
-                Developed a policy in microsoft azure for MFA to ensure that ISO
-                27001 (ISMS) was complied with.
+                Explained API develpment using PHP laravel.
               </Typography>
             </li>
           </ul>
