@@ -48,7 +48,7 @@ function Experience() {
             <li>
               <Typography variant="body2" fullWidth>
                 Implimented AISearch on eBoardadmin which enhances documment
-                search and generate response based on seach request.
+                search and generate response based on search request.
               </Typography>
             </li>
             <li>
@@ -64,14 +64,14 @@ function Experience() {
             </li>
             <li>
               <Typography variant="body2" fullWidth>
-                Refactored the entire for eboardadmin codebase with the assit of
-                PHPunit which later improved codebase adaptability bugs
+                Refactored the entire for eboardadmin API codebase with the assit of
+                PHPunit which later improved codebase adaptability and bugs
                 detection.
               </Typography>
             </li>
             <li>
               <Typography variant="body2" fullWidth>
-                Implimented the CI/CD pipeline for eParliament which reduced
+                Implemented the CI/CD pipeline for eParliament which reduced
                 direct server interaction by 90%.
               </Typography>
             </li>

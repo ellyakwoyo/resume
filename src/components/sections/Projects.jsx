@@ -31,7 +31,7 @@ function Projects() {
               <Typography sx={{ fontWeight: "500" }} variant="body2" fullWidth>
                 Web Application API used by corporate board members to create meetings,
                 host meetings, share confidential doccuments and communicate(Over 1000 users). PHP(Slim),
-                Golang, Docker, Kubernetes, ec2(AWS), MySQL, JUnit, Git and Scrum-Zoho.
+                Golang, Docker, Kubernetes, ec2(AWS), MySQL, PHPUnit, Git and Scrum-Zoho.
               </Typography>
             </li>
           </ul>
@@ -61,7 +61,7 @@ function Projects() {
               <Typography sx={{ fontWeight: "500" }} variant="body2" fullWidth>
                 Web Application API that allows the public to send their
                 petitions to the parliament and manages house business.
-                PHP(Slim), Golang, Docker, ec2(AWS), MySQL, JUnit, Git and
+                PHP(Slim), Golang, Docker, ec2(AWS), MySQL, PHPUnit, Git and
                 Scrum-Zoho.
               </Typography>
             </li>
@@ -91,7 +91,7 @@ function Projects() {
             <li>
               <Typography sx={{ fontWeight: "500" }} variant="body2" fullWidth>
                 Web Application API that digitizes activities of HR departments.
-                PHP(Laravel), Docker, ec2(AWS), MySQL, JUnit, Git and
+                PHP(Laravel), Docker, ec2(AWS), MySQL, PHPUnit, Git and
                 Scrum-Zoho.
               </Typography>
             </li>

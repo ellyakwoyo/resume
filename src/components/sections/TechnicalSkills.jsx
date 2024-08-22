@@ -91,7 +91,7 @@ function TechnicalSkills() {
           <strong>Testing</strong>
         </Typography>
         <Typography variant="body2" sx={{ width: "70%" }} fullWidth>
-          -JUnit, Jest and Google truth.
+          -PHPUnit, Jest and Google truth.
         </Typography>
       </Stack>
       <Stack direction="row" spacing={{ xs: 1, sm: 2 }}>
